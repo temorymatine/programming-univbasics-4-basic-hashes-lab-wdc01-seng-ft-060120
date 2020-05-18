@@ -1,9 +1,9 @@
 def new_hash
-  # return an empty hash
+  {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+ dog = {[:cat => 1, :mouse =>2] # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
